@@ -1,0 +1,96 @@
+.social-share-wrapper {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.social-share-wrapper div
+{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 8px;
+	transition: 0.5s;
+}
+
+.social-share-wrapper div.share-on
+{
+	padding: 5px;
+	font-weight: bold;
+}
+
+.social-share-wrapper div.facebook
+{
+	background-color: #3a5795;
+	padding: 5px;
+}
+
+.social-share-wrapper div.twitter
+{
+	background-color: #55acee;
+	padding: 5px;
+}
+
+.social-share-wrapper div.linkedin
+{
+	background-color: #007bb6;
+	padding: 5px;
+}
+
+.social-share-wrapper div.tumblr {
+	background-color: #2C4762;
+	padding: 5px;
+}
+
+.social-share-wrapper div.reddit {
+	background-color: #FF3B1B;
+	padding: 5px;
+}
+
+
+.social-share-wrapper div.pinterest {
+	background-color: #C92228;
+	padding: 5px;
+}
+
+
+.social-share-wrapper div.google-plus {
+	background-color: #d34836;
+	padding: 5px;
+}
+
+.social-share-wrapper div a
+{
+	text-decoration: none;
+	border: none;
+	color: white;
+	text-transform: capitalize;
+}
+
+.social-share-wrapper::after, .social-share-wrapper::before {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.social-share-wrapper .share-btn:hover {
+	background-color: rgba(0,0,0,0.9);
+	transition: 0.5s;
+}
+
+.social-icon {
+	margin: 0px 5px 0px 3px;
+}
+
+.social-share-wrapper div.share-btn-as-icon {
+	padding: 8px 10px;
+	border-radius: 50%;
+	text-align: center;
+}
+
+.social-share-wrapper div.share-btn-as-icon .social-icon{
+	padding: 0px;
+}
+
+@media screen and (max-width: 368px){
+	.social-share-wrapper div {
+		float: none;
+	}
+}

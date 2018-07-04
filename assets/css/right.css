@@ -1,0 +1,13 @@
+.social-share-wrapper {
+	position: fixed;
+	right: 0;
+	top: 32%;
+	z-index: 99999;
+}
+.social-share-wrapper div.share-on {
+	padding: 5px 0px;
+}
+.social-share-wrapper div {
+	float: none;
+	margin-right: 0px;
+}
