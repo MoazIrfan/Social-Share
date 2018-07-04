@@ -3,10 +3,10 @@
 /**
 Plugin Name: Social Share
 Plugin URI:
-Description: SocialShare is a simple plugin that enables you to add social share buttons to all of your posts and/or pages easily.
+Description: SocialShare is a plugin that enables you to add social share buttons to all of your posts and/or pages easily. Customize icons & select menu location that suits best to your site.
 Author:
 Author URI:
-Version: 1.0
+Version: 1.0.1
 License: GPLv3 or later
 */
 

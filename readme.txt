@@ -1,7 +1,7 @@
 === SocialShare ===
 Contributors: socialshare
 Tags: share buttons, social buttons, facebook, twitter, google+, linkedin, pinterest, tumbler
-Version: 1.0
+Version: 1.0.1
 Tested up to: 4.9.6
 License: GPLv3 or later
 
@@ -47,6 +47,10 @@ Copyright 2018 SocialShare
 This program is free software you can redistribute it and/or modify it under the terms of the GNU General Public License, version 3, as published by the Free Software Foundation.
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated description
+* july 4, 2018
 
 = 1.0 =
 * Initial release
